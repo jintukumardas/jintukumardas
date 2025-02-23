@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m @jintukumardas
 - Currently Working as a core dev member for Shardeum (L1 decentralized blockchain network).
-- 👀 I’m interested in Web3 / Blockchain related stuff
+- 👀 I’m exploring AI with Blockchain 
 - 📫 Mail - jintuisbusy@gmail.com
 
 
