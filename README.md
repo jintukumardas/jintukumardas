@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @jintukumardas
-- Software Engineer @ Shardeum (L1 EVM Compatible Blockchain).
+- Senior Software Engineer @ Shardeum (L1 EVM Compatible Blockchain).
 - 👀 I’m exploring AI with Blockchain 
 - 📫 Mail - jintuisbusy@gmail.com
 
