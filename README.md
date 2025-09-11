@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Jintu Kumar Das  
 
 🚀 **Senior Software Engineer @ [Shardeum](https://shardeum.org)** | Distributed Systems | Backend Engineering | Blockchain
+
 ⚡ Obsessed with **performance, scalability, and reliability** — from tuning **CPU math libraries at AMD** to engineering **sharded blockchain infrastructure at scale**.  
 
 ---
