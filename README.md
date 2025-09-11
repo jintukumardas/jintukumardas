@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Jintu Kumar Das  
 
-🚀 **Senior Software Engineer @ [Shardeum](https://shardeum.org)** | Distributed Systems | Blockchain | AI × Web3  
+🚀 **Senior Software Engineer @ [Shardeum](https://shardeum.org)** | Distributed Systems | Backend Engineering | Blockchain
 ⚡ Obsessed with **performance, scalability, and reliability** — from tuning **CPU math libraries at AMD** to engineering **sharded blockchain infrastructure at scale**.  
 
 ---
 
 ## 💫 About Me  
 - 🏗 4+ years of experience building **high-performance distributed systems**.  
-- 🔗 Key contributor to **Shardeum’s autoscaling L1 blockchain**, scaling its testnet to millions of transactions.  
+- 🔗 Key contributor to **Shardeum’s autoscaling L1 blockchain**, scaling its mainnet to millions of transactions.  
 - 🧑‍💻 Ex-AMD engineer — optimized CPU math libraries for **AI, scientific, and financial workloads**, earning the **Director Spotlight Award** and **2× Extra Mile Awards**.  
 - 🤖 Passionate about the intersection of **AI agents + blockchain**, building tools for **autonomous DeFi** and **on-chain payments**.  
 - 👥 Mentor, collaborator, and hackathon builder — with **multiple global wins** in Web3 and AI agent competitions.  
@@ -56,4 +56,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 ---
 
-⚡ _“If you’re building systems that need to run faster, scale bigger, or break less — let’s connect.”_  
+⚡ _If you’re building systems that need to run faster, scale bigger, or break less — let’s connect._  
