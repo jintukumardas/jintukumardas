@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Jintu Kumar Das  
 
+**Website:** [Jintu Kumar Das](https://jintudas.dev)
+
 🚀 **Senior Software Engineer @ [Shardeum](https://shardeum.org)** | Distributed Systems | Backend Engineering | Blockchain
 
 ⚡ Obsessed with **performance, scalability, and reliability** — from tuning **CPU math libraries at AMD** to working with **sharded blockchain infrastructure at scale**.  
@@ -17,8 +19,10 @@
 
 ---
 
-## My Articles
-- **Optimizing Matrix Multiplication with AVX on AMD: Lessons from My Time at AMD** [Link](https://jintukumardas.notion.site/blog-avx512)
+## 📝 My Articles
+- [**Optimizing Matrix Multiplication with AVX on AMD: Lessons from My Time at AMD**](https://jintukumardas.notion.site/blog-avx512)
+
+---
 
 ## 🛠 Tech Stack  
 **Core Expertise**: Distributed Backend Systems · Blockchain Infrastructure · Performance Optimization · Multithreading · API Engineering  
