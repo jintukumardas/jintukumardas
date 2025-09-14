@@ -9,13 +9,16 @@
 ## 💫 About Me  
 - 🏗 4+ years of experience building **high-performance distributed systems**.  
 - 🔗 Key contributor to **Shardeum’s autoscaling L1 blockchain**, scaling its mainnet to millions of transactions.  
-- 🧑‍💻 Ex-AMD engineer — optimized CPU math libraries for **AI, scientific, and financial workloads**, earning the **Director Spotlight Award** and **2× Extra Mile Awards**.  
+- 🧑‍💻 Ex-AMD engineer — optimized CPU math libraries used by **scientific applications**, earning the **Director Spotlight Award** and **2× Extra Mile Awards**.  
 - 🤖 Passionate about the intersection of **AI agents + blockchain**, building tools for **autonomous DeFi** and **on-chain payments**.  
 - 👥 Mentor, collaborator, and hackathon builder — with **multiple global wins** in Web3 and AI agent competitions.  
 
 📫 Reach me: **[jintukumardas@gmail.com](mailto:jintukumardas@gmail.com)**  
 
 ---
+
+## My Articles
+- **Optimizing Matrix Multiplication with AVX on AMD: Lessons from My Time at AMD** [Link](https://jintukumardas.notion.site/blog-avx512)
 
 ## 🛠 Tech Stack  
 **Core Expertise**: Distributed Backend Systems · Blockchain Infrastructure · Performance Optimization · Multithreading · API Engineering  
