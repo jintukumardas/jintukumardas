@@ -65,3 +65,5 @@
 ---
 
 ⚡ _If you’re building systems that need to run faster, scale bigger, or break less — let’s connect._  
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jintukumardas)
