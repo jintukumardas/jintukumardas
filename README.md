@@ -19,6 +19,12 @@
 
 ---
 
+## 📝 Coding Platform
+- [**Leetcode: jintudas**](https://leetcode.com/u/jintudas/) - Solved close to 100 problems and participated in global competitions. Casually Active.
+- [**GeeksForGeeks: jintudas**](https://www.geeksforgeeks.org/user/jintudas/) -  Solved more than 100 problems and maintained POTD streak of 50+ days. Inactive.
+
+---
+
 ## 📝 My Articles
 - [**Optimizing Matrix Multiplication with AVX on AMD: Lessons from My Time at AMD**](https://jintukumardas.notion.site/blog-avx512)
 
@@ -45,14 +51,14 @@
 - 🔹 **[Quasar](https://dorahacks.io/buidl/23920)** – **AI-powered cross-chain DeFi platform** with gas optimization & multichain interoperability.  
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements  (2021 - Present)
 - 🥈 **Vyper/Polygon AI Agent Hackathon** – 2nd Place (2025) [🔗](https://dorahacks.io/buidl/23809/milestones)  
 - 🌟 **Committer of the Month – Shardeum** (2025) [🔗](https://shardeum.org/blog/jintu-das-software-engineer/)  
 - 🥈 **ETHGlobal Singapore – NounsDAO Expand Public Goods** (2024) [🔗](https://ethglobal.com/showcase/mirage-tz65j)  
 - 🥈 **Rust on Linera Hackathon – Best Gaming App** (2024) [🔗](https://devpost.com/software/classic-tic-tac-toe)
 - 🏅 **Rust on Linera: Spring 2024 Hackathon - Honorable Mention** (2024) [🔗](https://devpost.com/software/chainseats)
 - 🏅 **V0RTEx 01 | A Scroll Hackathon** – 3rd Place + Covalent Bounty [🔗](https://dorahacks.io/buidl/11870)  
-- 🏅 **Director Spotlight & Extra Mile Awards – AMD** (2021–23)  
+- 🏅 **Director Spotlight (2 times) & Extra Mile (2 times) Awards – AMD** (2021–23)  
 ---
 
 ## 🌐 Connect With Me  
