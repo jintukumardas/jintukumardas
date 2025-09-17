@@ -24,6 +24,12 @@
 
 ---
 
+## 📝 Research Publications
+- [**Reducing Dimension for Remote Sensing Image Dataset - IEEE, 2022**](https://ieeexplore.ieee.org/abstract/document/9785203/?casa_token=sBy2b8U3JMEAAAAA:TZw6NAANcoX81D7ye2r3zAV6SdOgRbaI7cQdOESSuQP2jWiuzzcsjTdCCMN_u3ZRD4QD1u7JYwI)
+- [**A Graph-Based Band Selection Method for Hyperspectral Images Using Correlation Matrix - Springer, 2021**](https://www.springerprofessional.de/en/a-graph-based-band-selection-method-for-hyperspectral-images-usi/19252976)
+
+---
+
 ## 🛠 Tech Stack  
 **Core Expertise**: Distributed Backend Systems · Blockchain Infrastructure · Performance Optimization · Multithreading · API Engineering  
 **Languages**: JavaScript · TypeScript · Python · Java · C/C++ · Go · Rust  
@@ -35,8 +41,8 @@
 
 ## 🔭 Featured Projects  
 - 🔹 **[LedgerMind](https://dorahacks.io/buidl/31227)** – Secure on-chain **USDC payment intent system** for AI agents with programmable constraints & audit trails. 
-- 🔹 **Mirage** – [Decentralized transactional email](https://ethglobal.com/showcase/mirage-tz65j) with USDT/USDC transfers and encrypted messaging.   
-- 🔹 **[Quasar](https://dorahacks.io/buidl/23920)** – AI-powered cross-chain DeFi platform with gas optimization & multichain interoperability.  
+- 🔹 **[Mirage](https://ethglobal.com/showcase/mirage-tz65j)** – **Decentralized transactional email** with USDT/USDC transfers and encrypted messaging.   
+- 🔹 **[Quasar](https://dorahacks.io/buidl/23920)** – **AI-powered cross-chain DeFi platform** with gas optimization & multichain interoperability.  
 ---
 
 ## 🏆 Achievements  
