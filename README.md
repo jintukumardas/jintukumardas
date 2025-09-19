@@ -19,6 +19,15 @@
 
 ---
 
+## 😁 Open Source Contributions
+- **Shardeum:** Contributed to shardeum, archiver, core and 19 other repositories
+- **Shardus:** Contributed to relayer-collector
+- **Ethereum:** Contributed to consensus-specs
+- **Celestia:** Contributed to talis
+- **Juno:** Contributed to docs
+
+---
+
 ## 📝 Coding Platform
 - [**Leetcode: jintudas**](https://leetcode.com/u/jintudas/) - Solved close to 100 problems and participated in global competitions. Casually Active.
 - [**GeeksForGeeks: jintudas**](https://www.geeksforgeeks.org/user/jintudas/) -  Solved more than 100 problems and maintained POTD streak of 50+ days. Inactive.
