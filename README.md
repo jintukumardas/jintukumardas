@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jintu Kumar Das  
 
-**Website:** [Jintu Kumar Das](https://jintudas.dev)
+**Website:** [Jintu Kumar Das](https://jintukumardas.notion.site)
 
 🚀 **Senior Software Engineer @ [Shardeum](https://shardeum.org)** | Distributed Systems | Backend Engineering | Blockchain
 
