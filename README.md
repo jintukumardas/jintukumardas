@@ -20,11 +20,13 @@
 ---
 
 ## 😁 Open Source Contributions
-- **Shardeum:** Contributed to shardeum, archiver, core and 19 other repositories
-- **Shardus:** Contributed to relayer-collector
-- **Ethereum:** Contributed to consensus-specs
+
 - **Celestia:** Contributed to talis
-- **Juno:** Contributed to docs
+- **Ethereum:** Contributed to consensus-specs
+- **Filecoin:** Contributed to go-state-types
+- **Juno:**     Contributed to docs
+- **Shardeum:** Contributed to shardeum, archiver, core and 19 other repositories
+- **Shardus:**  Contributed to relayer-collector
 
 ---
 
