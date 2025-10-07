@@ -24,6 +24,7 @@
 - **Celestia:** Contributed to talis
 - **Ethereum:** Contributed to consensus-specs
 - **Filecoin:** Contributed to go-state-types
+- **Hyperledger:** Contributed to besu
 - **Juno:**     Contributed to docs
 - **Shardeum:** Contributed to shardeum, archiver, core and 19 other repositories
 - **Shardus:**  Contributed to relayer-collector
