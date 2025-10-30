@@ -64,6 +64,7 @@
 ---
 
 ## 🏆 Achievements  (2021 - Present)
+- 🏅 **DomainFi Challenge** - Winner for track Landing Pages & Messaging Interfaces (2025) [🔗](https://dorahacks.io/buidl/34008/milestones)
 - 🥈 **Vyper/Polygon AI Agent Hackathon** – 2nd Place (2025) [🔗](https://dorahacks.io/buidl/23809/milestones)  
 - 🌟 **Committer of the Month – Shardeum** (2025) [🔗](https://shardeum.org/blog/jintu-das-software-engineer/)  
 - 🥈 **ETHGlobal Singapore – NounsDAO Expand Public Goods** (2024) [🔗](https://ethglobal.com/showcase/mirage-tz65j)  
