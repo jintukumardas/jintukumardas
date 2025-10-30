@@ -58,9 +58,10 @@
 ---
 
 ## 🔭 Featured Projects  
+- 🔹 **[Giggle](https://github.com/jintukumardas/giggle)** – Instant **crypto payments** through **WhatsApp chat.**
+- 🔹 **[EON](https://dorahacks.io/buidl/35232)** – **EON turns Web3 into conversation.** Send tokens, mint NFTs, create payment links, register .push domains, deploy ERC20s, and generate QR codes - all by chatting. No forms, no hex, no hassle.
 - 🔹 **[LedgerMind](https://dorahacks.io/buidl/31227)** – Secure on-chain **USDC payment intent system** for AI agents with programmable constraints & audit trails. 
-- 🔹 **[Mirage](https://ethglobal.com/showcase/mirage-tz65j)** – **Decentralized transactional email** with USDT/USDC transfers and encrypted messaging.   
-- 🔹 **[Quasar](https://dorahacks.io/buidl/23920)** – **AI-powered cross-chain DeFi platform** with gas optimization & multichain interoperability.  
+- 🔹 **[Mirage](https://ethglobal.com/showcase/mirage-tz65j)** – **Decentralized transactional email** with USDT/USDC transfers and encrypted messaging.
 ---
 
 ## 🏆 Achievements  (2021 - Present)
