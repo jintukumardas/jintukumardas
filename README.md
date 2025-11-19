@@ -82,11 +82,6 @@
 [![DoraHacks](https://img.shields.io/badge/DoraHacks-FE5000?logo=hackaday&logoColor=white)](https://dorahacks.io/hacker/jintuisbusy)  
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=jintukumardas&theme=radical&hide_border=false&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jintukumardas&theme=radical&hide_border=false)
----
-
 ## ✍️ Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 ---
