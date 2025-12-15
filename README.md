@@ -2,7 +2,9 @@
 
 **Website:** [Jintu Kumar Das](https://jintukumardas.notion.site)
 
-🚀 **Senior Software Engineer @ [Shardeum](https://shardeum.org)** | Distributed Systems | Backend Engineering | Blockchain
+**Senior Software Engineer @ [Everclear](https://www.everclear.org/)** 
+
+**Prev: Senior Software Engineer @ [Shardeum](https://shardeum.org)** | Distributed Systems | Backend Engineering | Blockchain
 
 ⚡ Obsessed with **performance, scalability, and reliability** — from tuning **CPU math libraries at AMD** to working with **sharded blockchain infrastructure at scale**.  
 
@@ -10,7 +12,7 @@
 
 ## 💫 About Me  
 - 🏗 4+ years of experience building **high-performance distributed systems**.  
-- 🔗 Key contributor to **Shardeum’s autoscaling L1 blockchain**, scaling its mainnet to millions of transactions.  
+- 🔗 Prev: Key contributor to **Shardeum’s autoscaling L1 blockchain**, scaling its mainnet to millions of transactions.  
 - 🧑‍💻 Ex-AMD engineer — optimized CPU math libraries used by **scientific applications**, earning the **Director Spotlight Award** and **2× Extra Mile Awards**.  
 - 🤖 Passionate about the intersection of **AI agents + blockchain**, building tools for **autonomous DeFi** and **on-chain payments**.  
 - 👥 Mentor, collaborator, and hackathon builder — with **multiple global wins** in Web3 and AI agent competitions.  
