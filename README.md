@@ -11,7 +11,7 @@
 ---
 
 ## 💫 About Me  
-- 🏗 4+ years of experience building **high-performance distributed systems**.  
+- 🏗 5+ years of experience building **high-performance distributed systems**.  
 - 🔗 Prev: Key contributor to **Shardeum’s autoscaling L1 blockchain**, scaling its mainnet to millions of transactions.  
 - 🧑‍💻 Ex-AMD engineer — optimized CPU math libraries used by **scientific applications**, earning the **Director Spotlight Award** and **2× Extra Mile Awards**.  
 - 🤖 Passionate about the intersection of **AI agents + blockchain**, building tools for **autonomous DeFi** and **on-chain payments**.  
