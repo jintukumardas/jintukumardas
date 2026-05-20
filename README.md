@@ -20,10 +20,10 @@
 ---
 
 ## 🛠 Tech Stack  
-**AI & Agents**: Model Abstractions (Claude Code, OpenAI, Gemini) · Context Engineering · Model Context Protocol (MCP) · Local AI (Whisper, Kokoro-JS) · Vector Embeddings  
+**AI & Agents**: Model Abstractions (Claude Code, OpenAI, Gemini) · Context Engineering · Model Context Protocol (MCP) · Local AI · Vector Embeddings  
 **Backend & Scale**: Distributed Systems · Systems Performance (GDB, Valgrind, perf) · Concurrency & Multithreading · Microservices · API Architecture  
 **Languages**: TypeScript/JavaScript · Python · Golang · C/C++ · Rust · Java  
-**Cloud & Infra**: Node.js · Next.js · Docker · Kubernetes · AWS · PostgreSQL · Redis Clusters  
+**Cloud & Infra**: Node.js · Next.js · Docker · AWS · PostgreSQL · Redis  
 
 ---
 
