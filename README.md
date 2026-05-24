@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Jintu Kumar Das  
 
-**Senior Software Engineer @ [Everclear](https://www.everclear.org/)** - Architected production LLM Slack agent for SDLC automation, code-review routing, and system triaging.  
-
-**Prev: Systems & Distributed Engineer @ AMD / Shardeum** | M.Tech in Computer Science (AI/ML specialization)  
+**Prev: Senior Software Engineer @ [Everclear](https://www.everclear.org/)  | Systems & Distributed Engineer @ AMD / Shardeum** | M.Tech in Computer Science (AI/ML specialization)  
 
 ⚡ **Obsessed with making autonomous AI systems performant, scalable, and deterministic.** I bridge the gap between low level performance (ex-AMD math libary optimization) and high level agentic intelligence.
 
